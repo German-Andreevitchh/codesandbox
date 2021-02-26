@@ -1,0 +1,19 @@
+{
+  "name": "fluent-ui-example",
+  "version": "1.0.0",
+  "description": "An exported example from Fluent UI React, https://microsoft.github.io/fluent-ui-react/",
+  "main": "index.js",
+  "dependencies": {
+    "@fluentui/accessibility": "0.42.0",
+    "@fluentui/code-sandbox": "latest",
+    "@fluentui/docs-components": "0.42.0",
+    "@fluentui/react": "0.42.0",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.15",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-fela": "^10.6.1",
+    "prettier": "^1.19.1",
+    "react-scripts": "latest"
+  }
+}
